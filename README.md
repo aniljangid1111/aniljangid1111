@@ -79,32 +79,6 @@ My focus is on **writing maintainable code** and delivering features that go bey
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniljangid1111&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aniljangid1111&theme=tokyonight&border_radius=15&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniljangid1111&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aniljangid1111&theme=onedark&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/aniljangid1111/aniljangid1111/output/github-contribution-grid-snake.svg)
